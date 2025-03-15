@@ -11,4 +11,4 @@ You must have Python installed and that's about it!
 Error messages as message boxes
 
 **Bugs:**
-When opening a program, the OS will load all programs. This may be fixed soon.
+Programs don't load.
