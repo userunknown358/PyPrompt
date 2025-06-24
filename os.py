@@ -2,11 +2,11 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      userunknown358
+# Author:      s4yem
 #
 # Created:     13/03/2025
-# Copyright:   (c) userunknown358 2025
-# Licence:     <your licence>
+# Copyright:   s4yem
+# Licence:     licence
 #-------------------------------------------------------------------------------
 
 import os
